@@ -1,4 +1,8 @@
 sentry
-celery<3.0
+celery==3.0.19
 psycopg2==2.4.5
 dj-database-url==0.2.0
+
+sentry-github
+sentry-pivotal
+sentry-searchbutton
